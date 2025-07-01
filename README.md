@@ -1,5 +1,5 @@
 # Javascript-Tutorial
-introduction to Javascript variables, funtions and methods 
+introduction to Javascript.
 
 <h4> 🛠 Technologies</h4>
 <p>
@@ -7,3 +7,9 @@ introduction to Javascript variables, funtions and methods
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/css3.svg" title="css" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/syvixor/skills-icons/71b9b462fbccbe41e27705378b8e694ddc7eccd7/icons/javascript.svg" title="javascript" width="50" height="50"/>
 </p>
+<h4> 📙 Lessons </h4>
+<ul>
+  <li>Variables</li>
+  <li>Functions</li>
+  <li>Methods</li>
+</ul>
